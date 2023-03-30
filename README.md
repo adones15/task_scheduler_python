@@ -1,4 +1,4 @@
-# task_scheduler_python
+# Task Scheduler Python
 
 Desenvolvi um agendador de tarefasem Python, ele tem por finalidade agendar scripts python para rodar no horário que for configurado, funciona semelhante ao Task Scheduler do Windows e o Cron do Linux.
 
