@@ -1,1 +1,1 @@
-chave_api = "4IAXA18YV5L7C46M"
+chave_api = "CHAVE DE ACESSO A API - RETIREI POR SEGURANÇA"
